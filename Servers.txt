@@ -11,4 +11,4 @@ cb.scpbora.kr:50025,5
 cb.scpbora.kr:50026,5
 cb.scpbora.kr:50027,5
 cb.scpbora.kr:50028,5
-20.127.98.228:50021;5
+20.127.98.228:50021,5
