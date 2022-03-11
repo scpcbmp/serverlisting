@@ -18,4 +18,4 @@ You can get a copy of the multiplayer game from the [Steam Storepage](https://st
 
 ### Is there a location where I can find an XDelta Patch program that's easy to use?
 
-Yes, I recommend using the tool from [ROM HACKING](https://www.romhacking.net/utilities/598/) from the intuitively simple GUI frontend, or use this one called [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) from [@marco-calautti](https://github.com/marco-calautti).
+Yes, I recommend using the tool from [ROM HACKING](https://www.romhacking.net/utilities/598/) for its intuitively simple GUI frontend, or use this one called [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) from [@marco-calautti](https://github.com/marco-calautti) which is even simpler.
